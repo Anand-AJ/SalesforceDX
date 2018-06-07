@@ -1,0 +1,257 @@
+[
+    [
+        "C:\\Users\\anand.j\\geolocation1\\force-app",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\anand.j\\geolocation1\\force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1528357114826,
+            "changeTime": 1528357114826,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Users\\anand.j\\geolocation1\\force-app\\main",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\anand.j\\geolocation1\\force-app\\main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1528357114826,
+            "changeTime": 1528357114826,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\anand.j\\geolocation1\\force-app\\main\\default",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\anand.j\\geolocation1\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1528357366895,
+            "changeTime": 1528357366895,
+            "contentHash": "4cfd1989fa44dd1a317ae36b127a22da3b8eae1b"
+        }
+    ],
+    [
+        "C:\\Users\\anand.j\\geolocation1\\force-app\\main\\default\\aura",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\anand.j\\geolocation1\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1528357114826,
+            "changeTime": 1528357114826,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\anand.j\\geolocation1",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\anand.j\\geolocation1",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1528357187406,
+            "changeTime": 1528357187406,
+            "contentHash": "3d48858a737ab8c39315eaf1c5149980d1a9cdae",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\anand.j\\geolocation1\\force-app\\main\\default\\objects\\Account\\fields\\Dummy_2__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\anand.j\\geolocation1\\force-app\\main\\default\\objects\\Account\\fields\\Dummy_2__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 366,
+            "modifiedTime": 1528357366720,
+            "changeTime": 1528357366720,
+            "contentHash": "94996b475b7eed2237846480c60653a97a1af027"
+        }
+    ],
+    [
+        "C:\\Users\\anand.j\\geolocation1\\force-app\\main\\default\\layouts\\Account-Account (Support) Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\anand.j\\geolocation1\\force-app\\main\\default\\layouts\\Account-Account (Support) Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9755,
+            "modifiedTime": 1528357366755,
+            "changeTime": 1528357366755,
+            "contentHash": "5dd9b4c8b1cc90f5f254352564f81cce4d0ccc1b"
+        }
+    ],
+    [
+        "C:\\Users\\anand.j\\geolocation1\\force-app\\main\\default\\layouts\\Account-Account Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\anand.j\\geolocation1\\force-app\\main\\default\\layouts\\Account-Account Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9707,
+            "modifiedTime": 1528357366785,
+            "changeTime": 1528357366785,
+            "contentHash": "50f2b2d6e73633339d06a7248a515116227a660c"
+        }
+    ],
+    [
+        "C:\\Users\\anand.j\\geolocation1\\force-app\\main\\default\\layouts\\Account-Account (Marketing) Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\anand.j\\geolocation1\\force-app\\main\\default\\layouts\\Account-Account (Marketing) Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9755,
+            "modifiedTime": 1528357366852,
+            "changeTime": 1528357366852,
+            "contentHash": "d158af6e37ea9c3ddf382a3e4a1d5e20cb70c667"
+        }
+    ],
+    [
+        "C:\\Users\\anand.j\\geolocation1\\force-app\\main\\default\\layouts\\Account-Account (Sales) Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\anand.j\\geolocation1\\force-app\\main\\default\\layouts\\Account-Account (Sales) Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9707,
+            "modifiedTime": 1528357366870,
+            "changeTime": 1528357366870,
+            "contentHash": "1af492f21b57ed2120be4cda65cf2d81c0df0a62"
+        }
+    ],
+    [
+        "C:\\Users\\anand.j\\geolocation1\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\anand.j\\geolocation1\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 17635,
+            "modifiedTime": 1528357366906,
+            "changeTime": 1528357366906,
+            "contentHash": "427e58e8fbf7acd13fac52ee8c466e429aede025"
+        }
+    ],
+    [
+        "C:\\Users\\anand.j\\geolocation1\\force-app\\main\\default\\profiles\\Custom: Sales Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\anand.j\\geolocation1\\force-app\\main\\default\\profiles\\Custom: Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4591,
+            "modifiedTime": 1528357366975,
+            "changeTime": 1528357366975,
+            "contentHash": "0addaa512ccf55b4f88466461e817c6ff15af6c6"
+        }
+    ],
+    [
+        "C:\\Users\\anand.j\\geolocation1\\force-app\\main\\default\\profiles\\Custom: Marketing Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\anand.j\\geolocation1\\force-app\\main\\default\\profiles\\Custom: Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4595,
+            "modifiedTime": 1528357366975,
+            "changeTime": 1528357366975,
+            "contentHash": "dfdb14a4cb8bc6cc5cf2826d0326fcea802cf41b"
+        }
+    ],
+    [
+        "C:\\Users\\anand.j\\geolocation1\\force-app\\main\\default\\profiles\\Custom: Support Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\anand.j\\geolocation1\\force-app\\main\\default\\profiles\\Custom: Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4931,
+            "modifiedTime": 1528357366975,
+            "changeTime": 1528357366975,
+            "contentHash": "64e99899f54a52b8abc43470f3391fec4ee959f9"
+        }
+    ],
+    [
+        "C:\\Users\\anand.j\\geolocation1\\force-app\\main\\default\\objects\\Account\\fields",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\anand.j\\geolocation1\\force-app\\main\\default\\objects\\Account\\fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1528357366719,
+            "changeTime": 1528357366719,
+            "contentHash": "8fdba2aea120519cb57bda7104f4a3a39e6e223b"
+        }
+    ],
+    [
+        "C:\\Users\\anand.j\\geolocation1\\force-app\\main\\default\\objects\\Account",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\anand.j\\geolocation1\\force-app\\main\\default\\objects\\Account",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1528357366717,
+            "changeTime": 1528357366717,
+            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07"
+        }
+    ],
+    [
+        "C:\\Users\\anand.j\\geolocation1\\force-app\\main\\default\\objects",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\anand.j\\geolocation1\\force-app\\main\\default\\objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1528357366717,
+            "changeTime": 1528357366717,
+            "contentHash": "85dfa32c97d8618d1bea083609e2c8a29845abe5"
+        }
+    ],
+    [
+        "C:\\Users\\anand.j\\geolocation1\\force-app\\main\\default\\layouts",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\anand.j\\geolocation1\\force-app\\main\\default\\layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1528357366869,
+            "changeTime": 1528357366869,
+            "contentHash": "be43ec218fd4b2701663c648b5cbe93e57e32129"
+        }
+    ],
+    [
+        "C:\\Users\\anand.j\\geolocation1\\force-app\\main\\default\\profiles",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\anand.j\\geolocation1\\force-app\\main\\default\\profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1528357366933,
+            "changeTime": 1528357366933,
+            "contentHash": "28a941c36edc4d0e24ad208bddbadc4530145796"
+        }
+    ]
+]
